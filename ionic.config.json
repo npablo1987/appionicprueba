@@ -1,0 +1,7 @@
+{
+  "name": "pvilches",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
